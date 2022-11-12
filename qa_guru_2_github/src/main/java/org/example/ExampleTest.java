@@ -10,6 +10,6 @@ public class ExampleTest {
 
     @Test
     void ExampleTest() {
-        Assert.assertTrue(2>1);
+        Assert.assertTrue(3>2);
     }
 }
