@@ -12,6 +12,7 @@ public class ExampleTest {
 
     @Test
     void ExampleTest() {
-        Assert.assertTrue(new Random().nextInt() > 1);
+
+        Assert.assertTrue(3>=2);
     }
 }
